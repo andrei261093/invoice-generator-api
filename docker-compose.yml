@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  time-off-back:
+  online-invoice:
     build: '.'
     ports:
       - "8094:8080"
